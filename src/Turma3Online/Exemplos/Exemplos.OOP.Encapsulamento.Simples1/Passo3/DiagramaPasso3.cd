@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Exemplos.OOP.Encapsulamento.Simples1.Passo3.Diretor">
+    <Position X="2" Y="5.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Passo3\Diretor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exemplos.OOP.Encapsulamento.Simples1.Passo3.Executivo">
+    <Position X="3.5" Y="3.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAAAAAAADAAAAAAAAAAA=</HashCode>
+      <FileName>Passo3\Executivo.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Exemplos.OOP.Encapsulamento.Simples1.Passo3.Gerente">
+    <Position X="5" Y="5.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Passo3\Gerente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exemplos.OOP.Encapsulamento.Simples1.Passo3.Operario">
+    <Position X="8" Y="3.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Passo3\Operario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exemplos.OOP.Encapsulamento.Simples1.Passo3.Funcionario">
+    <Position X="5" Y="1.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Passo3\Funcionario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Exemplos.OOP.Encapsulamento.Simples1.Passo3.ICalcularBonus" Collapsed="true">
+    <Position X="11.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Passo3\ICalcularBonus.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
